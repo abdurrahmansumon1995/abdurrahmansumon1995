@@ -2,11 +2,11 @@
 ## I am a student of Enterprise System Analysis and Development with CS
 ![I am a student of Enterprise System Analysis and Development with CS](https://scontent.fdac99-1.fna.fbcdn.net/v/t39.30808-6/278170934_3113128622270867_5066585955439936659_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=e3f864&_nc_ohc=q8L5IFrcwKAAX-QQO4B&_nc_oc=AQkihx6KGK-meApWacyYu0gsUW00Lvc0hPqtBlYHJJsDuSmNR6ohbr2QfisiOiLO-yM&_nc_ht=scontent.fdac99-1.fna&oh=00_AT8k4Y2vtvDsdwlT9N4ysO8ufQzg1mWwaFOy5qP2FkKORg&oe=629AF91D)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I made this profile for represent myself, you can learn information about myself.
 
-Skills: SQL / UML / JS / HTML / CSS / CS
+Skills: SQL / CS / UML / HTML / CSS / JS
 
-- 🔭 I’m currently working on CS 
+- 🔭 I’m currently working on CS Project of Computer Accessories.
 - 🌱 I’m currently learning Java Script 
 - 💬 Ask me about SQL 
 - 📫 How to reach me: by Email 
